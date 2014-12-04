@@ -36,7 +36,7 @@ public class FullscreenActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				Toast t=Toast.makeText(getApplicationContext(), "Jenkins Robotium test",Toast.LENGTH_LONG);
+				Toast t=Toast.makeText(getApplicationContext(), "Jenkins  Robotium test",Toast.LENGTH_LONG);
 				t.show();
 			}
 		});
@@ -54,6 +54,7 @@ public class FullscreenActivity extends Activity {
 		// are available.
 	}
 
+	
 	/**
 	 * Touch listener to use for in-layout UI controls to delay hiding the
 	 * system UI. This is to prevent the jarring behavior of controls going away
