@@ -36,7 +36,7 @@ public class FullscreenActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				Toast t=Toast.makeText(getApplicationContext(), "Jenkins Robotium test",Toast.LENGTH_LONG);
+				Toast t=Toast.makeText(getApplicationContext(), "Jenkins   Robotium test",Toast.LENGTH_LONG);
 				t.show();
 			}
 		});
